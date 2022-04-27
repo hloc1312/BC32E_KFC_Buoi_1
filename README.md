@@ -1,0 +1,1 @@
+Nguyễn Hoàng Lộc - BC32E - Buổi 1 (KFC)

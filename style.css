@@ -1,0 +1,65 @@
+html{
+    scroll-behavior: smooth;
+}
+/* Logo */
+.logo-img{
+    width: 100px;
+}
+
+/* Header */
+#header h1{
+    color: #fff;
+    background-color: red;
+}
+
+/* Navigation */
+#navigation a{
+    font-size: 20px;
+    color: #59489a;
+}
+
+/* Introduce */
+#introduce, #development{
+    background-color: brown;
+    color: #fff;
+}
+
+#introduce h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+#introduce p{
+    font-size: 30px;
+    text-align: justify;
+}
+
+#introduce p i {
+    color: #000;
+    font-weight: bold;
+}
+
+#introduce img{
+    width: 666px;
+}
+
+/* Development */
+#development h1{
+    font-size: 40px;
+    text-align: center;
+}
+#development ul{
+    font-size: 25px;
+}
+
+#development img{
+    width: 666px;
+}
+
+/* Price */
+#price h1{
+    text-align: center;
+
+}
+
+

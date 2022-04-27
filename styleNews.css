@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+#main{
+    background-color: #fff;
+    width: 60%;
+    
+}
+#main h1{
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+#main p, #main ol{
+    font-size: 20px;
+}
+#main img{
+    width: 100%;
+}
